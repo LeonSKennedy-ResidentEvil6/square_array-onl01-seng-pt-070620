@@ -4,3 +4,5 @@ def square_array(numbers)
   numbers.collect { |number| arr << number ** 2 }
   arr
 end
+
+
